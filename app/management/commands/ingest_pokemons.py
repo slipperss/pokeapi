@@ -1,6 +1,8 @@
 from django.core.management.base import BaseCommand
 from django.conf import settings
+
 import json
+
 from app.models import Pokemon
 
 

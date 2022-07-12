@@ -1,7 +1,8 @@
 from rest_framework.generics import (RetrieveUpdateDestroyAPIView, ListAPIView)
+from rest_framework.permissions import IsAuthenticated
+
 from .models import UserProfile
 from .serializers import UserProfileSerializer
-from rest_framework.permissions import IsAuthenticated
 from .permissions import IsOwnerProfileOrReadOnly
 
 

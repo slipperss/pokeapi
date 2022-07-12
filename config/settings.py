@@ -1,14 +1,16 @@
-from datetime import timedelta
-from pathlib import Path
 import os
 
-#import environ
+from datetime import timedelta
+
+from pathlib import Path
+
+import environ
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-#env = environ.Env()
+env = environ.Env()
 
-#environ.Env.read_env(os.path.join(BASE_DIR, '.env'))
+environ.Env.read_env(os.path.join(BASE_DIR, '.env'))
 
 SECRET_KEY = os.environ.get('SECRET_KEY')
 
@@ -82,7 +84,7 @@ WSGI_APPLICATION = 'config.wsgi.application'
 #         'PORT': '5432',
 #     }
 # }
-
+#
 DATABASES = {
     "default": {
         "ENGINE": os.environ.get("POSTGRES_ENGINE"),

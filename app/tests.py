@@ -1,8 +1,8 @@
-import datetime
-
 from django.urls import reverse
-from rest_framework import status
+
 from rest_framework.test import APITestCase
+from rest_framework import status
+
 from app.models import Pokemon
 
 
@@ -18,7 +18,6 @@ class UserProfileTestCase(APITestCase):
         self.token = response.data['access']
         Pokemon.objects.create(name='Bulbasaur')
         a = Pokemon.objects.all()
-        print('PPPPPPPOKEMON', a[0].pk)
         self.api_authentication()
 
     def api_authentication(self):
