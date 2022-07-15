@@ -1,0 +1,2094 @@
+[
+    {
+        "pokemon_id": 1,
+        "name": "overgrow"
+    },
+    {
+        "pokemon_id": 1,
+        "name": "chlorophyll"
+    },
+    {
+        "pokemon_id": 2,
+        "name": "overgrow"
+    },
+    {
+        "pokemon_id": 2,
+        "name": "chlorophyll"
+    },
+    {
+        "pokemon_id": 3,
+        "name": "overgrow"
+    },
+    {
+        "pokemon_id": 3,
+        "name": "chlorophyll"
+    },
+    {
+        "pokemon_id": 4,
+        "name": "blaze"
+    },
+    {
+        "pokemon_id": 4,
+        "name": "solar-power"
+    },
+    {
+        "pokemon_id": 5,
+        "name": "blaze"
+    },
+    {
+        "pokemon_id": 5,
+        "name": "solar-power"
+    },
+    {
+        "pokemon_id": 6,
+        "name": "blaze"
+    },
+    {
+        "pokemon_id": 6,
+        "name": "solar-power"
+    },
+    {
+        "pokemon_id": 7,
+        "name": "torrent"
+    },
+    {
+        "pokemon_id": 7,
+        "name": "rain-dish"
+    },
+    {
+        "pokemon_id": 8,
+        "name": "torrent"
+    },
+    {
+        "pokemon_id": 8,
+        "name": "rain-dish"
+    },
+    {
+        "pokemon_id": 9,
+        "name": "torrent"
+    },
+    {
+        "pokemon_id": 9,
+        "name": "rain-dish"
+    },
+    {
+        "pokemon_id": 10,
+        "name": "shield-dust"
+    },
+    {
+        "pokemon_id": 10,
+        "name": "run-away"
+    },
+    {
+        "pokemon_id": 11,
+        "name": "shed-skin"
+    },
+    {
+        "pokemon_id": 12,
+        "name": "compound-eyes"
+    },
+    {
+        "pokemon_id": 12,
+        "name": "tinted-lens"
+    },
+    {
+        "pokemon_id": 13,
+        "name": "shield-dust"
+    },
+    {
+        "pokemon_id": 13,
+        "name": "run-away"
+    },
+    {
+        "pokemon_id": 14,
+        "name": "shed-skin"
+    },
+    {
+        "pokemon_id": 15,
+        "name": "swarm"
+    },
+    {
+        "pokemon_id": 15,
+        "name": "sniper"
+    },
+    {
+        "pokemon_id": 16,
+        "name": "keen-eye"
+    },
+    {
+        "pokemon_id": 16,
+        "name": "tangled-feet"
+    },
+    {
+        "pokemon_id": 16,
+        "name": "big-pecks"
+    },
+    {
+        "pokemon_id": 17,
+        "name": "keen-eye"
+    },
+    {
+        "pokemon_id": 17,
+        "name": "tangled-feet"
+    },
+    {
+        "pokemon_id": 17,
+        "name": "big-pecks"
+    },
+    {
+        "pokemon_id": 18,
+        "name": "keen-eye"
+    },
+    {
+        "pokemon_id": 18,
+        "name": "tangled-feet"
+    },
+    {
+        "pokemon_id": 18,
+        "name": "big-pecks"
+    },
+    {
+        "pokemon_id": 19,
+        "name": "run-away"
+    },
+    {
+        "pokemon_id": 19,
+        "name": "guts"
+    },
+    {
+        "pokemon_id": 19,
+        "name": "hustle"
+    },
+    {
+        "pokemon_id": 20,
+        "name": "run-away"
+    },
+    {
+        "pokemon_id": 20,
+        "name": "guts"
+    },
+    {
+        "pokemon_id": 20,
+        "name": "hustle"
+    },
+    {
+        "pokemon_id": 21,
+        "name": "keen-eye"
+    },
+    {
+        "pokemon_id": 21,
+        "name": "sniper"
+    },
+    {
+        "pokemon_id": 22,
+        "name": "keen-eye"
+    },
+    {
+        "pokemon_id": 22,
+        "name": "sniper"
+    },
+    {
+        "pokemon_id": 23,
+        "name": "intimidate"
+    },
+    {
+        "pokemon_id": 23,
+        "name": "shed-skin"
+    },
+    {
+        "pokemon_id": 23,
+        "name": "unnerve"
+    },
+    {
+        "pokemon_id": 24,
+        "name": "intimidate"
+    },
+    {
+        "pokemon_id": 24,
+        "name": "shed-skin"
+    },
+    {
+        "pokemon_id": 24,
+        "name": "unnerve"
+    },
+    {
+        "pokemon_id": 25,
+        "name": "static"
+    },
+    {
+        "pokemon_id": 25,
+        "name": "lightning-rod"
+    },
+    {
+        "pokemon_id": 26,
+        "name": "static"
+    },
+    {
+        "pokemon_id": 26,
+        "name": "lightning-rod"
+    },
+    {
+        "pokemon_id": 27,
+        "name": "sand-veil"
+    },
+    {
+        "pokemon_id": 27,
+        "name": "sand-rush"
+    },
+    {
+        "pokemon_id": 28,
+        "name": "sand-veil"
+    },
+    {
+        "pokemon_id": 28,
+        "name": "sand-rush"
+    },
+    {
+        "pokemon_id": 29,
+        "name": "poison-point"
+    },
+    {
+        "pokemon_id": 29,
+        "name": "rivalry"
+    },
+    {
+        "pokemon_id": 29,
+        "name": "hustle"
+    },
+    {
+        "pokemon_id": 30,
+        "name": "poison-point"
+    },
+    {
+        "pokemon_id": 30,
+        "name": "rivalry"
+    },
+    {
+        "pokemon_id": 30,
+        "name": "hustle"
+    },
+    {
+        "pokemon_id": 31,
+        "name": "poison-point"
+    },
+    {
+        "pokemon_id": 31,
+        "name": "rivalry"
+    },
+    {
+        "pokemon_id": 31,
+        "name": "sheer-force"
+    },
+    {
+        "pokemon_id": 32,
+        "name": "poison-point"
+    },
+    {
+        "pokemon_id": 32,
+        "name": "rivalry"
+    },
+    {
+        "pokemon_id": 32,
+        "name": "hustle"
+    },
+    {
+        "pokemon_id": 33,
+        "name": "poison-point"
+    },
+    {
+        "pokemon_id": 33,
+        "name": "rivalry"
+    },
+    {
+        "pokemon_id": 33,
+        "name": "hustle"
+    },
+    {
+        "pokemon_id": 34,
+        "name": "poison-point"
+    },
+    {
+        "pokemon_id": 34,
+        "name": "rivalry"
+    },
+    {
+        "pokemon_id": 34,
+        "name": "sheer-force"
+    },
+    {
+        "pokemon_id": 35,
+        "name": "cute-charm"
+    },
+    {
+        "pokemon_id": 35,
+        "name": "magic-guard"
+    },
+    {
+        "pokemon_id": 35,
+        "name": "friend-guard"
+    },
+    {
+        "pokemon_id": 36,
+        "name": "cute-charm"
+    },
+    {
+        "pokemon_id": 36,
+        "name": "magic-guard"
+    },
+    {
+        "pokemon_id": 36,
+        "name": "unaware"
+    },
+    {
+        "pokemon_id": 37,
+        "name": "flash-fire"
+    },
+    {
+        "pokemon_id": 37,
+        "name": "drought"
+    },
+    {
+        "pokemon_id": 38,
+        "name": "flash-fire"
+    },
+    {
+        "pokemon_id": 38,
+        "name": "drought"
+    },
+    {
+        "pokemon_id": 39,
+        "name": "cute-charm"
+    },
+    {
+        "pokemon_id": 39,
+        "name": "competitive"
+    },
+    {
+        "pokemon_id": 39,
+        "name": "friend-guard"
+    },
+    {
+        "pokemon_id": 40,
+        "name": "cute-charm"
+    },
+    {
+        "pokemon_id": 40,
+        "name": "competitive"
+    },
+    {
+        "pokemon_id": 40,
+        "name": "frisk"
+    },
+    {
+        "pokemon_id": 41,
+        "name": "inner-focus"
+    },
+    {
+        "pokemon_id": 41,
+        "name": "infiltrator"
+    },
+    {
+        "pokemon_id": 42,
+        "name": "inner-focus"
+    },
+    {
+        "pokemon_id": 42,
+        "name": "infiltrator"
+    },
+    {
+        "pokemon_id": 43,
+        "name": "chlorophyll"
+    },
+    {
+        "pokemon_id": 43,
+        "name": "run-away"
+    },
+    {
+        "pokemon_id": 44,
+        "name": "chlorophyll"
+    },
+    {
+        "pokemon_id": 44,
+        "name": "stench"
+    },
+    {
+        "pokemon_id": 45,
+        "name": "chlorophyll"
+    },
+    {
+        "pokemon_id": 45,
+        "name": "effect-spore"
+    },
+    {
+        "pokemon_id": 46,
+        "name": "effect-spore"
+    },
+    {
+        "pokemon_id": 46,
+        "name": "dry-skin"
+    },
+    {
+        "pokemon_id": 46,
+        "name": "damp"
+    },
+    {
+        "pokemon_id": 47,
+        "name": "effect-spore"
+    },
+    {
+        "pokemon_id": 47,
+        "name": "dry-skin"
+    },
+    {
+        "pokemon_id": 47,
+        "name": "damp"
+    },
+    {
+        "pokemon_id": 48,
+        "name": "compound-eyes"
+    },
+    {
+        "pokemon_id": 48,
+        "name": "tinted-lens"
+    },
+    {
+        "pokemon_id": 48,
+        "name": "run-away"
+    },
+    {
+        "pokemon_id": 49,
+        "name": "shield-dust"
+    },
+    {
+        "pokemon_id": 49,
+        "name": "tinted-lens"
+    },
+    {
+        "pokemon_id": 49,
+        "name": "wonder-skin"
+    },
+    {
+        "pokemon_id": 50,
+        "name": "sand-veil"
+    },
+    {
+        "pokemon_id": 50,
+        "name": "arena-trap"
+    },
+    {
+        "pokemon_id": 50,
+        "name": "sand-force"
+    },
+    {
+        "pokemon_id": 51,
+        "name": "sand-veil"
+    },
+    {
+        "pokemon_id": 51,
+        "name": "arena-trap"
+    },
+    {
+        "pokemon_id": 51,
+        "name": "sand-force"
+    },
+    {
+        "pokemon_id": 52,
+        "name": "pickup"
+    },
+    {
+        "pokemon_id": 52,
+        "name": "technician"
+    },
+    {
+        "pokemon_id": 52,
+        "name": "unnerve"
+    },
+    {
+        "pokemon_id": 53,
+        "name": "limber"
+    },
+    {
+        "pokemon_id": 53,
+        "name": "technician"
+    },
+    {
+        "pokemon_id": 53,
+        "name": "unnerve"
+    },
+    {
+        "pokemon_id": 54,
+        "name": "damp"
+    },
+    {
+        "pokemon_id": 54,
+        "name": "cloud-nine"
+    },
+    {
+        "pokemon_id": 54,
+        "name": "swift-swim"
+    },
+    {
+        "pokemon_id": 55,
+        "name": "damp"
+    },
+    {
+        "pokemon_id": 55,
+        "name": "cloud-nine"
+    },
+    {
+        "pokemon_id": 55,
+        "name": "swift-swim"
+    },
+    {
+        "pokemon_id": 56,
+        "name": "vital-spirit"
+    },
+    {
+        "pokemon_id": 56,
+        "name": "anger-point"
+    },
+    {
+        "pokemon_id": 56,
+        "name": "defiant"
+    },
+    {
+        "pokemon_id": 57,
+        "name": "vital-spirit"
+    },
+    {
+        "pokemon_id": 57,
+        "name": "anger-point"
+    },
+    {
+        "pokemon_id": 57,
+        "name": "defiant"
+    },
+    {
+        "pokemon_id": 58,
+        "name": "intimidate"
+    },
+    {
+        "pokemon_id": 58,
+        "name": "flash-fire"
+    },
+    {
+        "pokemon_id": 58,
+        "name": "justified"
+    },
+    {
+        "pokemon_id": 59,
+        "name": "intimidate"
+    },
+    {
+        "pokemon_id": 59,
+        "name": "flash-fire"
+    },
+    {
+        "pokemon_id": 59,
+        "name": "justified"
+    },
+    {
+        "pokemon_id": 60,
+        "name": "water-absorb"
+    },
+    {
+        "pokemon_id": 60,
+        "name": "damp"
+    },
+    {
+        "pokemon_id": 60,
+        "name": "swift-swim"
+    },
+    {
+        "pokemon_id": 61,
+        "name": "water-absorb"
+    },
+    {
+        "pokemon_id": 61,
+        "name": "damp"
+    },
+    {
+        "pokemon_id": 61,
+        "name": "swift-swim"
+    },
+    {
+        "pokemon_id": 62,
+        "name": "water-absorb"
+    },
+    {
+        "pokemon_id": 62,
+        "name": "damp"
+    },
+    {
+        "pokemon_id": 62,
+        "name": "swift-swim"
+    },
+    {
+        "pokemon_id": 63,
+        "name": "synchronize"
+    },
+    {
+        "pokemon_id": 63,
+        "name": "inner-focus"
+    },
+    {
+        "pokemon_id": 63,
+        "name": "magic-guard"
+    },
+    {
+        "pokemon_id": 64,
+        "name": "synchronize"
+    },
+    {
+        "pokemon_id": 64,
+        "name": "inner-focus"
+    },
+    {
+        "pokemon_id": 64,
+        "name": "magic-guard"
+    },
+    {
+        "pokemon_id": 65,
+        "name": "synchronize"
+    },
+    {
+        "pokemon_id": 65,
+        "name": "inner-focus"
+    },
+    {
+        "pokemon_id": 65,
+        "name": "magic-guard"
+    },
+    {
+        "pokemon_id": 66,
+        "name": "guts"
+    },
+    {
+        "pokemon_id": 66,
+        "name": "no-guard"
+    },
+    {
+        "pokemon_id": 66,
+        "name": "steadfast"
+    },
+    {
+        "pokemon_id": 67,
+        "name": "guts"
+    },
+    {
+        "pokemon_id": 67,
+        "name": "no-guard"
+    },
+    {
+        "pokemon_id": 67,
+        "name": "steadfast"
+    },
+    {
+        "pokemon_id": 68,
+        "name": "guts"
+    },
+    {
+        "pokemon_id": 68,
+        "name": "no-guard"
+    },
+    {
+        "pokemon_id": 68,
+        "name": "steadfast"
+    },
+    {
+        "pokemon_id": 69,
+        "name": "chlorophyll"
+    },
+    {
+        "pokemon_id": 69,
+        "name": "gluttony"
+    },
+    {
+        "pokemon_id": 70,
+        "name": "chlorophyll"
+    },
+    {
+        "pokemon_id": 70,
+        "name": "gluttony"
+    },
+    {
+        "pokemon_id": 71,
+        "name": "chlorophyll"
+    },
+    {
+        "pokemon_id": 71,
+        "name": "gluttony"
+    },
+    {
+        "pokemon_id": 72,
+        "name": "clear-body"
+    },
+    {
+        "pokemon_id": 72,
+        "name": "liquid-ooze"
+    },
+    {
+        "pokemon_id": 72,
+        "name": "rain-dish"
+    },
+    {
+        "pokemon_id": 73,
+        "name": "clear-body"
+    },
+    {
+        "pokemon_id": 73,
+        "name": "liquid-ooze"
+    },
+    {
+        "pokemon_id": 73,
+        "name": "rain-dish"
+    },
+    {
+        "pokemon_id": 74,
+        "name": "rock-head"
+    },
+    {
+        "pokemon_id": 74,
+        "name": "sturdy"
+    },
+    {
+        "pokemon_id": 74,
+        "name": "sand-veil"
+    },
+    {
+        "pokemon_id": 75,
+        "name": "rock-head"
+    },
+    {
+        "pokemon_id": 75,
+        "name": "sturdy"
+    },
+    {
+        "pokemon_id": 75,
+        "name": "sand-veil"
+    },
+    {
+        "pokemon_id": 76,
+        "name": "rock-head"
+    },
+    {
+        "pokemon_id": 76,
+        "name": "sturdy"
+    },
+    {
+        "pokemon_id": 76,
+        "name": "sand-veil"
+    },
+    {
+        "pokemon_id": 77,
+        "name": "run-away"
+    },
+    {
+        "pokemon_id": 77,
+        "name": "flash-fire"
+    },
+    {
+        "pokemon_id": 77,
+        "name": "flame-body"
+    },
+    {
+        "pokemon_id": 78,
+        "name": "run-away"
+    },
+    {
+        "pokemon_id": 78,
+        "name": "flash-fire"
+    },
+    {
+        "pokemon_id": 78,
+        "name": "flame-body"
+    },
+    {
+        "pokemon_id": 79,
+        "name": "oblivious"
+    },
+    {
+        "pokemon_id": 79,
+        "name": "own-tempo"
+    },
+    {
+        "pokemon_id": 79,
+        "name": "regenerator"
+    },
+    {
+        "pokemon_id": 80,
+        "name": "oblivious"
+    },
+    {
+        "pokemon_id": 80,
+        "name": "own-tempo"
+    },
+    {
+        "pokemon_id": 80,
+        "name": "regenerator"
+    },
+    {
+        "pokemon_id": 81,
+        "name": "magnet-pull"
+    },
+    {
+        "pokemon_id": 81,
+        "name": "sturdy"
+    },
+    {
+        "pokemon_id": 81,
+        "name": "analytic"
+    },
+    {
+        "pokemon_id": 82,
+        "name": "magnet-pull"
+    },
+    {
+        "pokemon_id": 82,
+        "name": "sturdy"
+    },
+    {
+        "pokemon_id": 82,
+        "name": "analytic"
+    },
+    {
+        "pokemon_id": 83,
+        "name": "keen-eye"
+    },
+    {
+        "pokemon_id": 83,
+        "name": "inner-focus"
+    },
+    {
+        "pokemon_id": 83,
+        "name": "defiant"
+    },
+    {
+        "pokemon_id": 84,
+        "name": "run-away"
+    },
+    {
+        "pokemon_id": 84,
+        "name": "early-bird"
+    },
+    {
+        "pokemon_id": 84,
+        "name": "tangled-feet"
+    },
+    {
+        "pokemon_id": 85,
+        "name": "run-away"
+    },
+    {
+        "pokemon_id": 85,
+        "name": "early-bird"
+    },
+    {
+        "pokemon_id": 85,
+        "name": "tangled-feet"
+    },
+    {
+        "pokemon_id": 86,
+        "name": "thick-fat"
+    },
+    {
+        "pokemon_id": 86,
+        "name": "hydration"
+    },
+    {
+        "pokemon_id": 86,
+        "name": "ice-body"
+    },
+    {
+        "pokemon_id": 87,
+        "name": "thick-fat"
+    },
+    {
+        "pokemon_id": 87,
+        "name": "hydration"
+    },
+    {
+        "pokemon_id": 87,
+        "name": "ice-body"
+    },
+    {
+        "pokemon_id": 88,
+        "name": "stench"
+    },
+    {
+        "pokemon_id": 88,
+        "name": "sticky-hold"
+    },
+    {
+        "pokemon_id": 88,
+        "name": "poison-touch"
+    },
+    {
+        "pokemon_id": 89,
+        "name": "stench"
+    },
+    {
+        "pokemon_id": 89,
+        "name": "sticky-hold"
+    },
+    {
+        "pokemon_id": 89,
+        "name": "poison-touch"
+    },
+    {
+        "pokemon_id": 90,
+        "name": "shell-armor"
+    },
+    {
+        "pokemon_id": 90,
+        "name": "skill-link"
+    },
+    {
+        "pokemon_id": 90,
+        "name": "overcoat"
+    },
+    {
+        "pokemon_id": 91,
+        "name": "shell-armor"
+    },
+    {
+        "pokemon_id": 91,
+        "name": "skill-link"
+    },
+    {
+        "pokemon_id": 91,
+        "name": "overcoat"
+    },
+    {
+        "pokemon_id": 92,
+        "name": "levitate"
+    },
+    {
+        "pokemon_id": 93,
+        "name": "levitate"
+    },
+    {
+        "pokemon_id": 94,
+        "name": "cursed-body"
+    },
+    {
+        "pokemon_id": 95,
+        "name": "rock-head"
+    },
+    {
+        "pokemon_id": 95,
+        "name": "sturdy"
+    },
+    {
+        "pokemon_id": 95,
+        "name": "weak-armor"
+    },
+    {
+        "pokemon_id": 96,
+        "name": "insomnia"
+    },
+    {
+        "pokemon_id": 96,
+        "name": "forewarn"
+    },
+    {
+        "pokemon_id": 96,
+        "name": "inner-focus"
+    },
+    {
+        "pokemon_id": 97,
+        "name": "insomnia"
+    },
+    {
+        "pokemon_id": 97,
+        "name": "forewarn"
+    },
+    {
+        "pokemon_id": 97,
+        "name": "inner-focus"
+    },
+    {
+        "pokemon_id": 98,
+        "name": "hyper-cutter"
+    },
+    {
+        "pokemon_id": 98,
+        "name": "shell-armor"
+    },
+    {
+        "pokemon_id": 98,
+        "name": "sheer-force"
+    },
+    {
+        "pokemon_id": 99,
+        "name": "hyper-cutter"
+    },
+    {
+        "pokemon_id": 99,
+        "name": "shell-armor"
+    },
+    {
+        "pokemon_id": 99,
+        "name": "sheer-force"
+    },
+    {
+        "pokemon_id": 100,
+        "name": "soundproof"
+    },
+    {
+        "pokemon_id": 100,
+        "name": "static"
+    },
+    {
+        "pokemon_id": 100,
+        "name": "aftermath"
+    },
+    {
+        "pokemon_id": 101,
+        "name": "soundproof"
+    },
+    {
+        "pokemon_id": 101,
+        "name": "static"
+    },
+    {
+        "pokemon_id": 101,
+        "name": "aftermath"
+    },
+    {
+        "pokemon_id": 102,
+        "name": "chlorophyll"
+    },
+    {
+        "pokemon_id": 102,
+        "name": "harvest"
+    },
+    {
+        "pokemon_id": 103,
+        "name": "chlorophyll"
+    },
+    {
+        "pokemon_id": 103,
+        "name": "harvest"
+    },
+    {
+        "pokemon_id": 104,
+        "name": "rock-head"
+    },
+    {
+        "pokemon_id": 104,
+        "name": "lightning-rod"
+    },
+    {
+        "pokemon_id": 104,
+        "name": "battle-armor"
+    },
+    {
+        "pokemon_id": 105,
+        "name": "rock-head"
+    },
+    {
+        "pokemon_id": 105,
+        "name": "lightning-rod"
+    },
+    {
+        "pokemon_id": 105,
+        "name": "battle-armor"
+    },
+    {
+        "pokemon_id": 106,
+        "name": "limber"
+    },
+    {
+        "pokemon_id": 106,
+        "name": "reckless"
+    },
+    {
+        "pokemon_id": 106,
+        "name": "unburden"
+    },
+    {
+        "pokemon_id": 107,
+        "name": "keen-eye"
+    },
+    {
+        "pokemon_id": 107,
+        "name": "iron-fist"
+    },
+    {
+        "pokemon_id": 107,
+        "name": "inner-focus"
+    },
+    {
+        "pokemon_id": 108,
+        "name": "own-tempo"
+    },
+    {
+        "pokemon_id": 108,
+        "name": "oblivious"
+    },
+    {
+        "pokemon_id": 108,
+        "name": "cloud-nine"
+    },
+    {
+        "pokemon_id": 109,
+        "name": "levitate"
+    },
+    {
+        "pokemon_id": 109,
+        "name": "neutralizing-gas"
+    },
+    {
+        "pokemon_id": 109,
+        "name": "stench"
+    },
+    {
+        "pokemon_id": 110,
+        "name": "levitate"
+    },
+    {
+        "pokemon_id": 110,
+        "name": "neutralizing-gas"
+    },
+    {
+        "pokemon_id": 110,
+        "name": "stench"
+    },
+    {
+        "pokemon_id": 111,
+        "name": "lightning-rod"
+    },
+    {
+        "pokemon_id": 111,
+        "name": "rock-head"
+    },
+    {
+        "pokemon_id": 111,
+        "name": "reckless"
+    },
+    {
+        "pokemon_id": 112,
+        "name": "lightning-rod"
+    },
+    {
+        "pokemon_id": 112,
+        "name": "rock-head"
+    },
+    {
+        "pokemon_id": 112,
+        "name": "reckless"
+    },
+    {
+        "pokemon_id": 113,
+        "name": "natural-cure"
+    },
+    {
+        "pokemon_id": 113,
+        "name": "serene-grace"
+    },
+    {
+        "pokemon_id": 113,
+        "name": "healer"
+    },
+    {
+        "pokemon_id": 114,
+        "name": "chlorophyll"
+    },
+    {
+        "pokemon_id": 114,
+        "name": "leaf-guard"
+    },
+    {
+        "pokemon_id": 114,
+        "name": "regenerator"
+    },
+    {
+        "pokemon_id": 115,
+        "name": "early-bird"
+    },
+    {
+        "pokemon_id": 115,
+        "name": "scrappy"
+    },
+    {
+        "pokemon_id": 115,
+        "name": "inner-focus"
+    },
+    {
+        "pokemon_id": 116,
+        "name": "swift-swim"
+    },
+    {
+        "pokemon_id": 116,
+        "name": "sniper"
+    },
+    {
+        "pokemon_id": 116,
+        "name": "damp"
+    },
+    {
+        "pokemon_id": 117,
+        "name": "poison-point"
+    },
+    {
+        "pokemon_id": 117,
+        "name": "sniper"
+    },
+    {
+        "pokemon_id": 117,
+        "name": "damp"
+    },
+    {
+        "pokemon_id": 118,
+        "name": "swift-swim"
+    },
+    {
+        "pokemon_id": 118,
+        "name": "water-veil"
+    },
+    {
+        "pokemon_id": 118,
+        "name": "lightning-rod"
+    },
+    {
+        "pokemon_id": 119,
+        "name": "swift-swim"
+    },
+    {
+        "pokemon_id": 119,
+        "name": "water-veil"
+    },
+    {
+        "pokemon_id": 119,
+        "name": "lightning-rod"
+    },
+    {
+        "pokemon_id": 120,
+        "name": "illuminate"
+    },
+    {
+        "pokemon_id": 120,
+        "name": "natural-cure"
+    },
+    {
+        "pokemon_id": 120,
+        "name": "analytic"
+    },
+    {
+        "pokemon_id": 121,
+        "name": "illuminate"
+    },
+    {
+        "pokemon_id": 121,
+        "name": "natural-cure"
+    },
+    {
+        "pokemon_id": 121,
+        "name": "analytic"
+    },
+    {
+        "pokemon_id": 122,
+        "name": "soundproof"
+    },
+    {
+        "pokemon_id": 122,
+        "name": "filter"
+    },
+    {
+        "pokemon_id": 122,
+        "name": "technician"
+    },
+    {
+        "pokemon_id": 123,
+        "name": "swarm"
+    },
+    {
+        "pokemon_id": 123,
+        "name": "technician"
+    },
+    {
+        "pokemon_id": 123,
+        "name": "steadfast"
+    },
+    {
+        "pokemon_id": 124,
+        "name": "oblivious"
+    },
+    {
+        "pokemon_id": 124,
+        "name": "forewarn"
+    },
+    {
+        "pokemon_id": 124,
+        "name": "dry-skin"
+    },
+    {
+        "pokemon_id": 125,
+        "name": "static"
+    },
+    {
+        "pokemon_id": 125,
+        "name": "vital-spirit"
+    },
+    {
+        "pokemon_id": 126,
+        "name": "flame-body"
+    },
+    {
+        "pokemon_id": 126,
+        "name": "vital-spirit"
+    },
+    {
+        "pokemon_id": 127,
+        "name": "hyper-cutter"
+    },
+    {
+        "pokemon_id": 127,
+        "name": "mold-breaker"
+    },
+    {
+        "pokemon_id": 127,
+        "name": "moxie"
+    },
+    {
+        "pokemon_id": 128,
+        "name": "intimidate"
+    },
+    {
+        "pokemon_id": 128,
+        "name": "anger-point"
+    },
+    {
+        "pokemon_id": 128,
+        "name": "sheer-force"
+    },
+    {
+        "pokemon_id": 129,
+        "name": "swift-swim"
+    },
+    {
+        "pokemon_id": 129,
+        "name": "rattled"
+    },
+    {
+        "pokemon_id": 130,
+        "name": "intimidate"
+    },
+    {
+        "pokemon_id": 130,
+        "name": "moxie"
+    },
+    {
+        "pokemon_id": 131,
+        "name": "water-absorb"
+    },
+    {
+        "pokemon_id": 131,
+        "name": "shell-armor"
+    },
+    {
+        "pokemon_id": 131,
+        "name": "hydration"
+    },
+    {
+        "pokemon_id": 132,
+        "name": "limber"
+    },
+    {
+        "pokemon_id": 132,
+        "name": "imposter"
+    },
+    {
+        "pokemon_id": 133,
+        "name": "run-away"
+    },
+    {
+        "pokemon_id": 133,
+        "name": "adaptability"
+    },
+    {
+        "pokemon_id": 133,
+        "name": "anticipation"
+    },
+    {
+        "pokemon_id": 134,
+        "name": "water-absorb"
+    },
+    {
+        "pokemon_id": 134,
+        "name": "hydration"
+    },
+    {
+        "pokemon_id": 135,
+        "name": "volt-absorb"
+    },
+    {
+        "pokemon_id": 135,
+        "name": "quick-feet"
+    },
+    {
+        "pokemon_id": 136,
+        "name": "flash-fire"
+    },
+    {
+        "pokemon_id": 136,
+        "name": "guts"
+    },
+    {
+        "pokemon_id": 137,
+        "name": "trace"
+    },
+    {
+        "pokemon_id": 137,
+        "name": "download"
+    },
+    {
+        "pokemon_id": 137,
+        "name": "analytic"
+    },
+    {
+        "pokemon_id": 138,
+        "name": "swift-swim"
+    },
+    {
+        "pokemon_id": 138,
+        "name": "shell-armor"
+    },
+    {
+        "pokemon_id": 138,
+        "name": "weak-armor"
+    },
+    {
+        "pokemon_id": 139,
+        "name": "swift-swim"
+    },
+    {
+        "pokemon_id": 139,
+        "name": "shell-armor"
+    },
+    {
+        "pokemon_id": 139,
+        "name": "weak-armor"
+    },
+    {
+        "pokemon_id": 140,
+        "name": "swift-swim"
+    },
+    {
+        "pokemon_id": 140,
+        "name": "battle-armor"
+    },
+    {
+        "pokemon_id": 140,
+        "name": "weak-armor"
+    },
+    {
+        "pokemon_id": 141,
+        "name": "swift-swim"
+    },
+    {
+        "pokemon_id": 141,
+        "name": "battle-armor"
+    },
+    {
+        "pokemon_id": 141,
+        "name": "weak-armor"
+    },
+    {
+        "pokemon_id": 142,
+        "name": "rock-head"
+    },
+    {
+        "pokemon_id": 142,
+        "name": "pressure"
+    },
+    {
+        "pokemon_id": 142,
+        "name": "unnerve"
+    },
+    {
+        "pokemon_id": 143,
+        "name": "immunity"
+    },
+    {
+        "pokemon_id": 143,
+        "name": "thick-fat"
+    },
+    {
+        "pokemon_id": 143,
+        "name": "gluttony"
+    },
+    {
+        "pokemon_id": 144,
+        "name": "pressure"
+    },
+    {
+        "pokemon_id": 144,
+        "name": "snow-cloak"
+    },
+    {
+        "pokemon_id": 145,
+        "name": "pressure"
+    },
+    {
+        "pokemon_id": 145,
+        "name": "static"
+    },
+    {
+        "pokemon_id": 146,
+        "name": "pressure"
+    },
+    {
+        "pokemon_id": 146,
+        "name": "flame-body"
+    },
+    {
+        "pokemon_id": 147,
+        "name": "shed-skin"
+    },
+    {
+        "pokemon_id": 147,
+        "name": "marvel-scale"
+    },
+    {
+        "pokemon_id": 148,
+        "name": "shed-skin"
+    },
+    {
+        "pokemon_id": 148,
+        "name": "marvel-scale"
+    },
+    {
+        "pokemon_id": 149,
+        "name": "inner-focus"
+    },
+    {
+        "pokemon_id": 149,
+        "name": "multiscale"
+    },
+    {
+        "pokemon_id": 150,
+        "name": "pressure"
+    },
+    {
+        "pokemon_id": 150,
+        "name": "unnerve"
+    },
+    {
+        "pokemon_id": 151,
+        "name": "synchronize"
+    },
+    {
+        "pokemon_id": 152,
+        "name": "overgrow"
+    },
+    {
+        "pokemon_id": 152,
+        "name": "leaf-guard"
+    },
+    {
+        "pokemon_id": 153,
+        "name": "overgrow"
+    },
+    {
+        "pokemon_id": 153,
+        "name": "leaf-guard"
+    },
+    {
+        "pokemon_id": 154,
+        "name": "overgrow"
+    },
+    {
+        "pokemon_id": 154,
+        "name": "leaf-guard"
+    },
+    {
+        "pokemon_id": 155,
+        "name": "blaze"
+    },
+    {
+        "pokemon_id": 155,
+        "name": "flash-fire"
+    },
+    {
+        "pokemon_id": 156,
+        "name": "blaze"
+    },
+    {
+        "pokemon_id": 156,
+        "name": "flash-fire"
+    },
+    {
+        "pokemon_id": 157,
+        "name": "blaze"
+    },
+    {
+        "pokemon_id": 157,
+        "name": "flash-fire"
+    },
+    {
+        "pokemon_id": 158,
+        "name": "torrent"
+    },
+    {
+        "pokemon_id": 158,
+        "name": "sheer-force"
+    },
+    {
+        "pokemon_id": 159,
+        "name": "torrent"
+    },
+    {
+        "pokemon_id": 159,
+        "name": "sheer-force"
+    },
+    {
+        "pokemon_id": 160,
+        "name": "torrent"
+    },
+    {
+        "pokemon_id": 160,
+        "name": "sheer-force"
+    },
+    {
+        "pokemon_id": 161,
+        "name": "run-away"
+    },
+    {
+        "pokemon_id": 161,
+        "name": "keen-eye"
+    },
+    {
+        "pokemon_id": 161,
+        "name": "frisk"
+    },
+    {
+        "pokemon_id": 162,
+        "name": "run-away"
+    },
+    {
+        "pokemon_id": 162,
+        "name": "keen-eye"
+    },
+    {
+        "pokemon_id": 162,
+        "name": "frisk"
+    },
+    {
+        "pokemon_id": 163,
+        "name": "insomnia"
+    },
+    {
+        "pokemon_id": 163,
+        "name": "keen-eye"
+    },
+    {
+        "pokemon_id": 163,
+        "name": "tinted-lens"
+    },
+    {
+        "pokemon_id": 164,
+        "name": "insomnia"
+    },
+    {
+        "pokemon_id": 164,
+        "name": "keen-eye"
+    },
+    {
+        "pokemon_id": 164,
+        "name": "tinted-lens"
+    },
+    {
+        "pokemon_id": 165,
+        "name": "swarm"
+    },
+    {
+        "pokemon_id": 165,
+        "name": "early-bird"
+    },
+    {
+        "pokemon_id": 165,
+        "name": "rattled"
+    },
+    {
+        "pokemon_id": 166,
+        "name": "swarm"
+    },
+    {
+        "pokemon_id": 166,
+        "name": "early-bird"
+    },
+    {
+        "pokemon_id": 166,
+        "name": "iron-fist"
+    },
+    {
+        "pokemon_id": 167,
+        "name": "swarm"
+    },
+    {
+        "pokemon_id": 167,
+        "name": "insomnia"
+    },
+    {
+        "pokemon_id": 167,
+        "name": "sniper"
+    },
+    {
+        "pokemon_id": 168,
+        "name": "swarm"
+    },
+    {
+        "pokemon_id": 168,
+        "name": "insomnia"
+    },
+    {
+        "pokemon_id": 168,
+        "name": "sniper"
+    },
+    {
+        "pokemon_id": 169,
+        "name": "inner-focus"
+    },
+    {
+        "pokemon_id": 169,
+        "name": "infiltrator"
+    },
+    {
+        "pokemon_id": 170,
+        "name": "volt-absorb"
+    },
+    {
+        "pokemon_id": 170,
+        "name": "illuminate"
+    },
+    {
+        "pokemon_id": 170,
+        "name": "water-absorb"
+    },
+    {
+        "pokemon_id": 171,
+        "name": "volt-absorb"
+    },
+    {
+        "pokemon_id": 171,
+        "name": "illuminate"
+    },
+    {
+        "pokemon_id": 171,
+        "name": "water-absorb"
+    },
+    {
+        "pokemon_id": 172,
+        "name": "static"
+    },
+    {
+        "pokemon_id": 172,
+        "name": "lightning-rod"
+    },
+    {
+        "pokemon_id": 173,
+        "name": "cute-charm"
+    },
+    {
+        "pokemon_id": 173,
+        "name": "magic-guard"
+    },
+    {
+        "pokemon_id": 173,
+        "name": "friend-guard"
+    },
+    {
+        "pokemon_id": 174,
+        "name": "cute-charm"
+    },
+    {
+        "pokemon_id": 174,
+        "name": "competitive"
+    },
+    {
+        "pokemon_id": 174,
+        "name": "friend-guard"
+    },
+    {
+        "pokemon_id": 175,
+        "name": "hustle"
+    },
+    {
+        "pokemon_id": 175,
+        "name": "serene-grace"
+    },
+    {
+        "pokemon_id": 175,
+        "name": "super-luck"
+    },
+    {
+        "pokemon_id": 176,
+        "name": "hustle"
+    },
+    {
+        "pokemon_id": 176,
+        "name": "serene-grace"
+    },
+    {
+        "pokemon_id": 176,
+        "name": "super-luck"
+    },
+    {
+        "pokemon_id": 177,
+        "name": "synchronize"
+    },
+    {
+        "pokemon_id": 177,
+        "name": "early-bird"
+    },
+    {
+        "pokemon_id": 177,
+        "name": "magic-bounce"
+    },
+    {
+        "pokemon_id": 178,
+        "name": "synchronize"
+    },
+    {
+        "pokemon_id": 178,
+        "name": "early-bird"
+    },
+    {
+        "pokemon_id": 178,
+        "name": "magic-bounce"
+    },
+    {
+        "pokemon_id": 179,
+        "name": "static"
+    },
+    {
+        "pokemon_id": 179,
+        "name": "plus"
+    },
+    {
+        "pokemon_id": 180,
+        "name": "static"
+    },
+    {
+        "pokemon_id": 180,
+        "name": "plus"
+    },
+    {
+        "pokemon_id": 181,
+        "name": "static"
+    },
+    {
+        "pokemon_id": 181,
+        "name": "plus"
+    },
+    {
+        "pokemon_id": 182,
+        "name": "chlorophyll"
+    },
+    {
+        "pokemon_id": 182,
+        "name": "healer"
+    },
+    {
+        "pokemon_id": 183,
+        "name": "thick-fat"
+    },
+    {
+        "pokemon_id": 183,
+        "name": "huge-power"
+    },
+    {
+        "pokemon_id": 183,
+        "name": "sap-sipper"
+    },
+    {
+        "pokemon_id": 184,
+        "name": "thick-fat"
+    },
+    {
+        "pokemon_id": 184,
+        "name": "huge-power"
+    },
+    {
+        "pokemon_id": 184,
+        "name": "sap-sipper"
+    },
+    {
+        "pokemon_id": 185,
+        "name": "sturdy"
+    },
+    {
+        "pokemon_id": 185,
+        "name": "rock-head"
+    },
+    {
+        "pokemon_id": 185,
+        "name": "rattled"
+    },
+    {
+        "pokemon_id": 186,
+        "name": "water-absorb"
+    },
+    {
+        "pokemon_id": 186,
+        "name": "damp"
+    },
+    {
+        "pokemon_id": 186,
+        "name": "drizzle"
+    },
+    {
+        "pokemon_id": 187,
+        "name": "chlorophyll"
+    },
+    {
+        "pokemon_id": 187,
+        "name": "leaf-guard"
+    },
+    {
+        "pokemon_id": 187,
+        "name": "infiltrator"
+    },
+    {
+        "pokemon_id": 188,
+        "name": "chlorophyll"
+    },
+    {
+        "pokemon_id": 188,
+        "name": "leaf-guard"
+    },
+    {
+        "pokemon_id": 188,
+        "name": "infiltrator"
+    },
+    {
+        "pokemon_id": 189,
+        "name": "chlorophyll"
+    },
+    {
+        "pokemon_id": 189,
+        "name": "leaf-guard"
+    },
+    {
+        "pokemon_id": 189,
+        "name": "infiltrator"
+    },
+    {
+        "pokemon_id": 190,
+        "name": "run-away"
+    },
+    {
+        "pokemon_id": 190,
+        "name": "pickup"
+    },
+    {
+        "pokemon_id": 190,
+        "name": "skill-link"
+    },
+    {
+        "pokemon_id": 191,
+        "name": "chlorophyll"
+    },
+    {
+        "pokemon_id": 191,
+        "name": "solar-power"
+    },
+    {
+        "pokemon_id": 191,
+        "name": "early-bird"
+    },
+    {
+        "pokemon_id": 192,
+        "name": "chlorophyll"
+    },
+    {
+        "pokemon_id": 192,
+        "name": "solar-power"
+    },
+    {
+        "pokemon_id": 192,
+        "name": "early-bird"
+    },
+    {
+        "pokemon_id": 193,
+        "name": "speed-boost"
+    },
+    {
+        "pokemon_id": 193,
+        "name": "compound-eyes"
+    },
+    {
+        "pokemon_id": 193,
+        "name": "frisk"
+    },
+    {
+        "pokemon_id": 194,
+        "name": "damp"
+    },
+    {
+        "pokemon_id": 194,
+        "name": "water-absorb"
+    },
+    {
+        "pokemon_id": 194,
+        "name": "unaware"
+    },
+    {
+        "pokemon_id": 195,
+        "name": "damp"
+    },
+    {
+        "pokemon_id": 195,
+        "name": "water-absorb"
+    },
+    {
+        "pokemon_id": 195,
+        "name": "unaware"
+    },
+    {
+        "pokemon_id": 196,
+        "name": "synchronize"
+    },
+    {
+        "pokemon_id": 196,
+        "name": "magic-bounce"
+    },
+    {
+        "pokemon_id": 197,
+        "name": "synchronize"
+    },
+    {
+        "pokemon_id": 197,
+        "name": "inner-focus"
+    },
+    {
+        "pokemon_id": 198,
+        "name": "insomnia"
+    },
+    {
+        "pokemon_id": 198,
+        "name": "super-luck"
+    },
+    {
+        "pokemon_id": 198,
+        "name": "prankster"
+    },
+    {
+        "pokemon_id": 199,
+        "name": "oblivious"
+    },
+    {
+        "pokemon_id": 199,
+        "name": "own-tempo"
+    },
+    {
+        "pokemon_id": 199,
+        "name": "regenerator"
+    },
+    {
+        "pokemon_id": 200,
+        "name": "levitate"
+    }
+]

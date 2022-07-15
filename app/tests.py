@@ -16,8 +16,8 @@ class UserProfileTestCase(APITestCase):
         print('***********', 'setUp', self.user.data['id'])
         response = self.client.post('/auth/jwt/create/', data={'username': 'test', 'password': 'some_test'})
         self.token = response.data['access']
-        Pokemon.objects.create(name='Bulbasaur')
-        a = Pokemon.objects.all()
+        #Pokemon.objects.create(name='Bulbasaur')
+        self.pokemon, _ = Pokemon.objects.get_or_create(name='Bulbasaur')
         self.api_authentication()
 
     def api_authentication(self):
@@ -45,7 +45,7 @@ class UserProfileTestCase(APITestCase):
 
     # заполнить профиль пользователя, который был автоматически создан с использованием сигналов
     def test_put_userprofile(self):
-        profile_data = {'description': 'yes i am', 'location': 'some country'}
+        profile_data = {'description': 'yes i am'}
         print('***********', 'test_put_userprofile', self.user.data['id'])
         response = self.client.put(reverse('profile', kwargs={'pk': self.user.data['id']}), data=profile_data)
 
@@ -53,7 +53,7 @@ class UserProfileTestCase(APITestCase):
 
     # закидываем покемон в профиль юзера(аналог test_put_userprofile)
     def test_put_pokemon_to_userprofile(self):
-        profile_data = {'pokemon': 1}
+        profile_data = {'pokemon': self.pokemon.id}
         print('***********', 'test_put_pokemon_to_userprofile', self.user.data['id'])
         response = self.client.put(reverse('profile', kwargs={'pk': self.user.data['id']}), data=profile_data)
         print(response)
@@ -65,13 +65,28 @@ class UserProfileTestCase(APITestCase):
         expected_data = {
             'user': 'test',
             'description': '',
-            'pokemon': 2,
+            'pokemon': self.pokemon.id,
         }
         profile_data = {
-            'pokemon': 2,
+            'pokemon': self.pokemon.id,
         }
         print('***********', 'test_put_pokemon_to_userprofile_response', self.user.data['id'])
         response = self.client.put(reverse('profile', kwargs={'pk': self.user.data['id']}), data=profile_data)
+        print(response.data)
+        self.assertEqual(response.data, expected_data)
+
+    # проверка респонса при присваивании покемона профилю
+    def test_patch_pokemon_to_userprofile_response(self):
+        expected_data = {
+            'user': 'test',
+            'description': 'something',
+            'pokemon': None,
+        }
+        profile_data = {
+            'description': 'something',
+        }
+        print('***********', 'test_patch_pokemon_to_userprofile_response', self.user.data['id'])
+        response = self.client.patch(reverse('profile', kwargs={'pk': self.user.data['id']}), data=profile_data)
         print(response.data)
         self.assertEqual(response.data, expected_data)
 
@@ -93,7 +108,7 @@ class UserProfileTestCase(APITestCase):
         expected_data = {
             'email': 'some@gmail.com',
             'username': 'someguy23',
-            'id': 5
+            'id': self.user.data['id'] + 1
         }
         profile_data = {
             'email': 'some@gmail.com',
@@ -104,3 +119,10 @@ class UserProfileTestCase(APITestCase):
         response = self.client.post('/auth/users/', data=profile_data)
         print(response.data)
         self.assertEqual(response.data, expected_data)
+
+    # проверка респонса при удалении профиля
+    def test_userprofile_delete_response(self):
+        print('***********', 'test_userprofile_create_response', '******')
+        response = self.client.delete(reverse('profile', kwargs={'pk': self.user.data['id']}))
+        print(response.data)
+        self.assertEqual(response.status_code, status.HTTP_204_NO_CONTENT)
