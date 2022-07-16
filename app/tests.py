@@ -3,8 +3,6 @@ from django.urls import reverse
 from rest_framework.test import APITestCase
 from rest_framework import status
 
-from app.models import Pokemon
-
 
 class UserProfileTestCase(APITestCase):
     profile_list_url = reverse('all-profiles')
@@ -16,8 +14,6 @@ class UserProfileTestCase(APITestCase):
         print('***********', 'setUp', self.user.data['id'])
         response = self.client.post('/auth/jwt/create/', data={'username': 'test', 'password': 'some_test'})
         self.token = response.data['access']
-        #Pokemon.objects.create(name='Bulbasaur')
-        self.pokemon, _ = Pokemon.objects.get_or_create(name='Bulbasaur')
         self.api_authentication()
 
     def api_authentication(self):
@@ -53,7 +49,11 @@ class UserProfileTestCase(APITestCase):
 
     # закидываем покемон в профиль юзера(аналог test_put_userprofile)
     def test_put_pokemon_to_userprofile(self):
-        profile_data = {'pokemon': self.pokemon.id}
+        profile_data = {
+            'user': 'test',
+            'description': 'bbbbbbbb',
+            'pokemon': 1,
+        }
         print('***********', 'test_put_pokemon_to_userprofile', self.user.data['id'])
         response = self.client.put(reverse('profile', kwargs={'pk': self.user.data['id']}), data=profile_data)
         print(response)
@@ -64,11 +64,13 @@ class UserProfileTestCase(APITestCase):
     def test_put_pokemon_to_userprofile_response(self):
         expected_data = {
             'user': 'test',
-            'description': '',
-            'pokemon': self.pokemon.id,
+            'description': 'bbbbbbbb',
+            'pokemon': 3,
         }
         profile_data = {
-            'pokemon': self.pokemon.id,
+            'user': 'test',
+            'description': 'bbbbbbbb',
+            'pokemon': 1,
         }
         print('***********', 'test_put_pokemon_to_userprofile_response', self.user.data['id'])
         response = self.client.put(reverse('profile', kwargs={'pk': self.user.data['id']}), data=profile_data)
@@ -80,10 +82,11 @@ class UserProfileTestCase(APITestCase):
         expected_data = {
             'user': 'test',
             'description': 'something',
-            'pokemon': None,
+            'pokemon': 1,
         }
         profile_data = {
             'description': 'something',
+            'pokemon': 1
         }
         print('***********', 'test_patch_pokemon_to_userprofile_response', self.user.data['id'])
         response = self.client.patch(reverse('profile', kwargs={'pk': self.user.data['id']}), data=profile_data)

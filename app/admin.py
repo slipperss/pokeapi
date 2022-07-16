@@ -1,7 +1,6 @@
 from django.contrib import admin
 
-from app.models import UserProfile, Pokemon, PokemonAbility
+from app.models import UserProfile, Pokemon
 
 admin.site.register(UserProfile)
 admin.site.register(Pokemon)
-admin.site.register(PokemonAbility)
